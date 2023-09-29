@@ -1,0 +1,14 @@
+.shizuDiv__commit {
+    margin-top: 30px;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.shizuDiv__commit h1 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
