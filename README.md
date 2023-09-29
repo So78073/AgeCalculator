@@ -3,8 +3,8 @@
 ## 29/09/2023 Shizu78073
 Shizu - Adicionei apenas uma barra de status de idade apenas pra ter o desafio de alterar um codigo de outra pessoa !! 
 
-portifolio : [Texto do Link](https://github.com/GabrielBastos019/AgeCalculator)
-criador: [Texto do Link](https://github.com/GabrielBastos019)
+[portifolio : ](https://github.com/GabrielBastos019/AgeCalculator)
+[criador: ](https://github.com/GabrielBastos019)
 
 
 
