@@ -4,7 +4,7 @@
 Shizu - Adicionei apenas uma barra de status de idade apenas pra ter o desafio de alterar um codigo de outra pessoa !! 
 
 
-[criador: ](https://github.com/GabrielBastos019)
+[criador: Gabriel bastos](https://github.com/GabrielBastos019) 
 
 
 ## Tecnologias Ultilizadas
